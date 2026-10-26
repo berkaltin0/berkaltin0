@@ -10,8 +10,8 @@ I am an Electrical and Electronics Engineering student at Adnan Menderes Univers
 * **Data-Driven Analysis:** Transforming data into actionable products across a wide spectrum, from cybersecurity log analysis (UEBA, Isolation Forest) to gravitational battery (GraviStore) feasibility modeling.
 
 ## 🛠️ Tech Stack & Skills
-* **Languages:** Python, C++, SQL
-* **Data Science & ML:** Scikit-Learn, AutoGluon, XGBoost, K-Means, DBSCAN, Pandas, NumPy
+* **Languages:** Python, SQL
+* **Data Science & ML
 * **MLOps & Deployment:** Docker, FastAPI, Git, Streamlit
 * **Engineering & Tools:** PyCharm, VS Code, Jupyter, MATLAB
 
