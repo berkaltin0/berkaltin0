@@ -31,5 +31,5 @@ To recharge from the intensive engineering and software world, I produce music (
 
 ## 📫 Get in Touch
 Feel free to reach out for collaborations, research internship opportunities, or just to chat about tech and music!
-* **LinkedIn:** [Your LinkedIn Profile URL](#)
-* **Email:** [Your Email Address](#)
+* **LinkedIn:** [https://www.linkedin.com/in/berk-alt%C4%B1n-325134365/](#)
+* **Email:** [alltinberk@gmail.com](#)
